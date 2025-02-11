@@ -2,7 +2,7 @@
 ### This is a REMOTE change
 <h1>Cholocate chip cookies<h1>
 line 2 changed remotely  This recipe makes the softest cookies while providing the perfect consistency.  
- This recipe provides all the nessecary steps to make them.<em><strong> found from Joy food Sunshine</strong></em> (link: https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/)
+ This recipe provides all the nessecary steps to make them.<em><strong> found from Joy food Sunshine</strong></em>. (link: https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/)
 last line changed locally
 ### This is a REMOTE change
 
