@@ -1,25 +1,30 @@
 <<<<<<< HEAD
 ### This is a REMOTE change
-<h1>Cholocate chip cookies<h1>
+<h1>Cholocate chip cookies</h1>
 line 2 changed remotely  This recipe makes the softest cookies while providing the perfect consistency.  
- This recipe provides all the nessecary steps to make them.<em><strong> found from Joy food Sunshine</strong></em>. (link: https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/)
+ This recipe provides all the nessecary steps to make them.
+ <strong>found from Joy food Sunshine</strong>. 
+ 
+ (link: https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/)
 last line changed locally
 ### This is a REMOTE change
 
-<h3>alternatives to chocolate chips<h3>
+<h3>alternatives to chocolate chips</h3>
 <ol>
   <li>raisans</li>
   <li>nuts</li>
   <li>seeds</li>
 </ol>
 
-<h3>other add ins<h3>
+<h3>other add ins</h3>
 <ul>
   <li>oats</li>
   <li>whole-wheat flour</li>
   <li>sugar-free alternatives</li>
 </ul>
+
 Chocolate chip Cookies
+
 Instructions 
 Preheat oven to 375 degrees F. Line three baking sheets with parchment paper and set aside.
 In a medium bowl mix flour, baking soda, baking powder and salt. Set aside.
